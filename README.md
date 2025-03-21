@@ -32,7 +32,7 @@ cd GrowthLink-Quiz
 ### 2️⃣ Install Dependencies
  Backend:
 ```bash
-cd Backend
+in root
 npm install
 ```
 Frontend:
